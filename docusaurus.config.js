@@ -10,7 +10,7 @@ const config = {
   tagline:
     'A multi-platform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use.',
   url: 'https://pcapplusplus.github.io',
-  baseUrl: '/',
+  baseUrl: '/test-new-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo/logo_icon_large.ico',
